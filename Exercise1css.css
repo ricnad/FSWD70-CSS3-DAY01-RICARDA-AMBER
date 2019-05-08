@@ -1,0 +1,33 @@
+.left {
+	margin:  5px;
+	border-style: dotted;
+}
+.right {
+	margin: 5px;
+	border-style: dashed;
+}	
+#first{
+	border-color: skyblue;
+}
+#second{
+	border-color: violet;
+	display: none;
+}
+#third{
+	border-color: lightgreen;
+}
+#fourth{
+	border-color: lightgray;
+}
+#fifth{
+	border-color: lightsalmon;
+}
+#sixth{
+	border-color: lightseagreen;
+}
+#third>p{
+	display: none;
+}
+h1{
+	display: none;
+}
