@@ -1,7 +1,8 @@
 body {
 	font-family:"courier-New",Arial;}
 h1{
-	text-align: center; 
+	text-align: center;
+	margin-left: 160px; 
 	text-transform: uppercase;
 	font-size: 5em;
 	border: 1px solid black;
@@ -9,12 +10,13 @@ h1{
 }
 h3{
 	text-align: center;
+	margin-left: 160px; 
 	text-transform: uppercase;
 	font-size: 3em;
 	font-weight: bold;
 }
 .nr1{
-	margin-left:70px ;
+	margin-left:200px ;
 	font-size: 2em;
 	font-weight:bold;
 }	
@@ -25,6 +27,7 @@ ul{
 
 }
 .sidenav {
+	height: 100%;
   width: 160px;
   position: fixed;
   z-index: 1;
