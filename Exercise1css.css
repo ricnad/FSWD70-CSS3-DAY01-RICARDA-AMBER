@@ -1,13 +1,11 @@
 .left {
 	margin:  5px;
 	border-style: dotted;
-	visibility: hidden;
-}
+	}
 .right {
 	margin: 5px;
 	border-style: dashed;
-	visibility: hidden;
-}	
+	}	
 #first{
 	border-color: skyblue;
 }
@@ -26,9 +24,5 @@
 #sixth{
 	border-color: lightseagreen;
 }
-#third>p{
-	visibility: hidden;
-}
-h1{
-	visibility: hidden;
-}
+#third>p{}
+h1{}
