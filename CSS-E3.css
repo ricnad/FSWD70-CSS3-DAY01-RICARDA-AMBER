@@ -8,6 +8,10 @@ h1{
 	border: 1px solid black;
 	font-weight: bolder;
 }
+footer{
+	text-align: center;
+	margin-left: 160px; 
+}
 h3{
 	text-align: center;
 	margin-left: 160px; 
