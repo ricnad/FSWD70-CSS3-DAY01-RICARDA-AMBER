@@ -1,17 +1,18 @@
 .left {
 	margin:  5px;
 	border-style: dotted;
+	visibility: hidden;
 }
 .right {
 	margin: 5px;
 	border-style: dashed;
+	visibility: hidden;
 }	
 #first{
 	border-color: skyblue;
 }
 #second{
 	border-color: violet;
-	display: none;
 }
 #third{
 	border-color: lightgreen;
@@ -26,8 +27,8 @@
 	border-color: lightseagreen;
 }
 #third>p{
-	display: none;
+	visibility: hidden;
 }
 h1{
-	display: none;
+	visibility: hidden;
 }
