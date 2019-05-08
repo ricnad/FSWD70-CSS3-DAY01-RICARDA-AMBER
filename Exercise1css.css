@@ -8,7 +8,7 @@
 	}	
 #first{
 	border-color: skyblue;
-}
+	}
 #second{
 	border-color: violet;
 }
@@ -24,5 +24,7 @@
 #sixth{
 	border-color: lightseagreen;
 }
-#third>p{}
-h1{}
+#first p {
+	font-size: 2em;
+		}  
+
