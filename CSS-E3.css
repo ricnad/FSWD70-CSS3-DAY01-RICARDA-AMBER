@@ -1,5 +1,8 @@
 body {
 	font-family:"courier-New",Arial;}
+p{
+	margin-left: 160px; 
+}
 h1{
 	text-align: center;
 	margin-left: 160px; 
@@ -23,6 +26,9 @@ h3{
 	margin-left:200px ;
 	font-size: 2em;
 	font-weight:bold;
+}
+.nr2{
+	margin-left: 160px;
 }	
 ul{
 	text-align:center;
